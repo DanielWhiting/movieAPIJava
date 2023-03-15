@@ -1,0 +1,2 @@
+spring.data.mongodb.database=movies-api-db
+spring.data.mongodb.uri=mongodb+srv://DanMain:XDV0ps1MIpkX9LiM@movieapi.wmzmdkv.mongodb.net

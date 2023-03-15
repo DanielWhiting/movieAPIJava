@@ -1,0 +1,4 @@
+MONGO_DATABASE="movies-api-db"
+MONGO_USER="DanMain"
+MONGO_PASSWORD="XDV0ps1MIpkX9LiM"
+MONGO_CLUSTER="movieapi.wmzmdkv.mongodb.net"

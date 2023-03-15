@@ -1,0 +1,5 @@
+package dev.dan.movies;
+
+public class Movie {
+
+}
